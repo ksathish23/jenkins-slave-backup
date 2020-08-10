@@ -16,7 +16,7 @@ pipeline {
     }
     stage("Package") {
       steps {
-        echo "packaging..."
+        echo "the packaging..."
       }
     }
   }
